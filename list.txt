@@ -1,1 +1,3 @@
 This is my 3rd file for practice Git 
+
+New things are added to the list
